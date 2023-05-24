@@ -2,7 +2,14 @@
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
+# from django.db import migrations
 
+# class Migration(migrations.Migration):
+#     dependencies = [
+#     ]
+
+#     operations = [
+#     ]
 
 def main():
     """Run administrative tasks."""
